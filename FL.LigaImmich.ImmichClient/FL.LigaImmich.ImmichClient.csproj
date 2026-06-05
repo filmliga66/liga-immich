@@ -11,7 +11,7 @@
         <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.8"/>
         <PackageReference Include="Microsoft.Extensions.Http.Resilience" Version="10.6.0"/>
         <PackageReference Include="Microsoft.Extensions.Options.DataAnnotations" Version="10.0.8"/>
-        <PackageReference Include="Microsoft.Identity.Client" Version="4.84.1"/>
+        <PackageReference Include="Microsoft.Identity.Client" Version="4.84.2"/>
     </ItemGroup>
 
     <ItemGroup>
